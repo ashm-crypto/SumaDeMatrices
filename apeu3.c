@@ -1,5 +1,3 @@
-[Regresar](principal.md)
-
 #include <stdio.h>
 void completarMatrices(int matriz[2][3], int numMatrices);
 void sumaMatriz(int matrizUno[2][3], int matrizDos[2][3], int suma[2][3]);
